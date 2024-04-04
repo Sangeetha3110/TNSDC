@@ -1,1 +1,2 @@
-# TNSDC
+# TNSDC   
+EmotionAI project, focused on enabling empathetic human-computer interaction. Our project aims to develop a robust emotional recognition system using deep learning techniques to detect and interpret human emotions across various modalities, including text, speech, and facial expressions. The system's core functionalities include data collection, model development, integration, testing, and deployment. We prioritize ethical considerations, ensuring privacy, mitigating biases, and addressing ethical implications throughout the project lifecycle. Our goal is to enhance user satisfaction and engagement through personalized and empathetic interactions. We welcome contributions and feedback to continuously improve our system.
